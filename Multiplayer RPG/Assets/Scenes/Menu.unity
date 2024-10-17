@@ -1469,7 +1469,7 @@ GameObject:
   - component: {fileID: 674155010}
   - component: {fileID: 674155009}
   m_Layer: 5
-  m_Name: PlayerListText
+  m_Name: RoomInfoText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2315,17 +2315,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4a17786b71bb864384c9bf5c39e61f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainScreen: {fileID: 0}
-  createRoomScreen: {fileID: 0}
-  lobbyScreen: {fileID: 0}
-  lobbyBrowserScreen: {fileID: 0}
-  createRoomButton: {fileID: 0}
-  findRoomButton: {fileID: 0}
-  playerListText: {fileID: 0}
-  roomInfoText: {fileID: 0}
-  startGameButton: {fileID: 0}
-  roomListContainer: {fileID: 0}
-  roomButtonPrefab: {fileID: 0}
+  mainScreen: {fileID: 1571597786}
+  createRoomScreen: {fileID: 786142121}
+  lobbyScreen: {fileID: 1161354203}
+  lobbyBrowserScreen: {fileID: 1794336547}
+  createRoomButton: {fileID: 2023455788}
+  findRoomButton: {fileID: 343027771}
+  playerListText: {fileID: 340109932}
+  roomInfoText: {fileID: 674155009}
+  startGameButton: {fileID: 747927840}
+  roomListContainer: {fileID: 537877159}
+  roomButtonPrefab: {fileID: 1710302688117293867, guid: 1a6f92f1221c2ab4b91a8eaf4b55fbac, type: 3}
 --- !u!4 &1075780130
 Transform:
   m_ObjectHideFlags: 0
