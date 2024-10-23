@@ -71,7 +71,7 @@ GameObject:
   - component: {fileID: 2094218802371722434}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -225,7 +225,7 @@ MonoBehaviour:
   curHp: 100
   maxHp: 100
   dead: 0
-  damage: 10
+  damage: 2
   attackRange: 1
   attackRate: 0.2
   rig: {fileID: 1925285652163601990}
